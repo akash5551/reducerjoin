@@ -1,0 +1,3 @@
+Run
+________________________________________
+hadoop jar '/home/training/Desktop/joins.jar' average.driver  '/join/file1.csv' '/join/file2.csv'  '/join/output'
